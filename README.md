@@ -10,6 +10,7 @@ Dev Minecraft Client
 # GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LawMOB)
 ![GitHub Streak](https://streak-stats.demolab.com?user=LawMOB&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LawMOB&theme=github_dark)
 
 
 
