@@ -5,7 +5,7 @@ Dev Minecraft Client
 ## Socials:
 [![Discord](https://ziadoua.github.io/m3-Markdown-Badges/badges/Discord/discord3.svg)](https://discord.gg/https://discord.gg/MAPNxEx3)
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/852028781551419412?theme=light&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/852028781551419412)
+[![Discord Presence](https://lanyard.cnrad.dev/api/852028781551419412?theme=dark&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/852028781551419412)
 
 # Tech Stack:
 ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/iOS/ios3.svg)
