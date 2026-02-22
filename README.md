@@ -14,6 +14,8 @@ Dev Minecraft Client
 # GitHub Stats:
 ![Pixel Profile](https://pixel-profile.vercel.app/api/github-stats?username=LawMOB&theme=dark&screen_effect=true&dithering=true)
 
+[![lawMOB profile views](https://u8views.com/api/v1/github/profiles/83550208/views/day-week-month-total-count.svg)](https://u8views.com/github/LawMOB)
+
 
 ![](https://github-readme-stats.vercel.app/api?username=LawMOB&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=LawMOB&theme=dark&hide_border=false)<br/>
