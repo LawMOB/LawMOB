@@ -5,6 +5,8 @@ Dev Minecraft Client
 ## Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/MAPNxEx3) 
 
+[![Discord](https://ziadoua.github.io/m3-Markdown-Badges/badges/Discord/discord3.svg)](https://discord.gg/https://discord.gg/MAPNxEx3)
+
 # Tech Stack:
 
 ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/iOS/ios3.svg)
