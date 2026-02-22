@@ -24,14 +24,32 @@ Dev Minecraft Client
 [![LawMOB GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=LawMOB&theme=github-dark-dimmed&bg_color=22272e&area=true&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
 <p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=LawMOB&theme=github-dark-dimmed&bg_color=22272e&area=true&hide_border=true"
-    style="
-      border-radius: 14px;
-      outline: 1.5px solid #ffffff;
-      outline-offset: -1px;
-    "
-  />
+  <svg width="100%" viewBox="0 0 1000 420" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+      <clipPath id="round">
+        <rect x="0" y="0" width="1000" height="420" rx="16" ry="16"/>
+      </clipPath>
+    </defs>
+
+    <image
+      href="https://github-readme-activity-graph.vercel.app/graph?username=LawMOB&theme=github-dark-dimmed&bg_color=22272e&area=true&hide_border=true"
+      width="1000"
+      height="420"
+      clip-path="url(#round)"
+    />
+
+    <rect
+      x="1"
+      y="1"
+      width="998"
+      height="418"
+      rx="16"
+      ry="16"
+      fill="none"
+      stroke="#ffffff"
+      stroke-width="1.5"
+    />
+  </svg>
 </p>
 
 <!--
