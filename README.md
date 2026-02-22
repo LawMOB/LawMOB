@@ -34,8 +34,7 @@ Dev Minecraft Client
       href="https://github-readme-activity-graph.vercel.app/graph?username=LawMOB&theme=github-dark-dimmed&bg_color=22272e&area=true&hide_border=true"
       width="1000"
       height="420"
-      clip-path="url(#round)"
-    />
+      clip-path="url(#round)"/>
     <rect
       x="1"
       y="1"
@@ -45,8 +44,7 @@ Dev Minecraft Client
       ry="16"
       fill="none"
       stroke="#ffffff"
-      stroke-width="1.5"
-    />
+      stroke-width="1.5"/>
   </svg>
 </p>
 
