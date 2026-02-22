@@ -9,7 +9,7 @@ Dev Minecraft Client
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=flat&logo=lua&logoColor=white)
 # GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LawMOB)
-![GitHub Streak](https://streak-stats.demolab.com?user=LawMOB)
+![GitHub Streak](https://streak-stats.demolab.com?user=LawMOB&theme=dark)
 
 
 
