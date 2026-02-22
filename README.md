@@ -30,14 +30,12 @@ Dev Minecraft Client
         <rect x="0" y="0" width="1000" height="420" rx="16" ry="16"/>
       </clipPath>
     </defs>
-
     <image
       href="https://github-readme-activity-graph.vercel.app/graph?username=LawMOB&theme=github-dark-dimmed&bg_color=22272e&area=true&hide_border=true"
       width="1000"
       height="420"
       clip-path="url(#round)"
     />
-
     <rect
       x="1"
       y="1"
