@@ -12,6 +12,8 @@ Dev Minecraft Client
 
 ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Java/java3.svg)
 
+![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript3.svg)
+
 # GitHub Stats:
 ![Pixel Profile](https://pixel-profile.vercel.app/api/github-stats?username=LawMOB&theme=dark&screen_effect=true&dithering=true)
 
