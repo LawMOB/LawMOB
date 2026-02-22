@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=LawMOB&theme=github-compact)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+[![LawMOB GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=LawMOB&theme=github-compact)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
 <!--
 **LawMOB/LawMOB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
