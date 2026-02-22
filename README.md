@@ -23,6 +23,17 @@ Dev Minecraft Client
 ## Activity Graph
 [![LawMOB GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=LawMOB&theme=github-dark-dimmed&bg_color=22272e&area=true&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=LawMOB&theme=github-dark-dimmed&bg_color=22272e&area=true&hide_border=true"
+    style="
+      border-radius: 14px;
+      outline: 1.5px solid #ffffff;
+      outline-offset: -1px;
+    "
+  />
+</p>
+
 <!--
 **LawMOB/LawMOB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
