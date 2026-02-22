@@ -7,9 +7,8 @@ Dev Minecraft Client
 
 # Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=flat&logo=lua&logoColor=white)
-<a href="#">
-    <img src="svg/dev/languages/java.svg" alt="java" style="vertical-align:top; margin:6px 4px">
-  </a>
+
+![](https://ziadoua.github.io/m3-Markdown-Badges/badges/iOS/ios3.svg)
 
 # GitHub Stats:
 ![Pixel Profile](https://pixel-profile.vercel.app/api/github-stats?username=LawMOB&theme=dark&screen_effect=true&dithering=true)
