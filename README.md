@@ -2,9 +2,9 @@
   Minecraft Client Developer
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://pixel-profile.vercel.app/api/github-stats?username=LawMOB&theme=dark&screen_effect=true&dithering=true" />
-</p>
+</p> -->
 
 <p align="center">
   <a href="https://discord.com/users/852028781551419412">
