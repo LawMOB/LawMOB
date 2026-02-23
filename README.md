@@ -12,9 +12,9 @@
   </a>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=LawMOB&theme=dark&include_all_commits=true&count_private=true" />
-</p>
+</p> -->
 
 <!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LawMOB&theme=dark&layout=compact" />
