@@ -16,9 +16,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=LawMOB&theme=dark&include_all_commits=true&count_private=true" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LawMOB&theme=dark&layout=compact" />
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=LawMOB&theme=github-dark-dimmed&bg_color=22272e&area=true&hide_border=true" />
