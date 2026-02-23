@@ -7,7 +7,9 @@
 </p>
 
 <p align="center">
-  <img src="https://lanyard.cnrad.dev/api/852028781551419412?theme=dark&hideDiscrim=true" />
+  <a href="https://discord.com/users/852028781551419412">
+    <img src="https://lanyard.cnrad.dev/api/852028781551419412?theme=dark&animated=false&hideDiscrim=true" />
+  </a>
 </p>
 
 <p align="center">
